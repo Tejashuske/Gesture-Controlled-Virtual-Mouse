@@ -1,0 +1,24 @@
+The use of hand gesture recognition in controlling virtual devices has become popular due to the advancement of
+artificial intelligence technology. A hand gesturecontrolled virtual mouse system that utilizes AI algorithms to recognize hand gestures and translate them into mouse movements is proposed in this paper. The system is designed to provide an alternative interface for people who have difficulty using a traditional mouse or keyboard.
+
+
+A hand gesturecontrolled virtual mouse system that utilizes AI algorithms to recognize hand gestures and translate them into mouse movements is proposed in this paper.
+
+datetime
+time
+webbrowser
+sys
+os
+smtplib
+Gesture_Controller
+app
+Thread
+queue
+math
+IntEnum
+cast
+pointer
+CLSCTX_ALL
+aruco
+glob
+numpy
